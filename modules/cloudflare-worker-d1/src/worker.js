@@ -18,7 +18,7 @@ export default {
     }
 
     return Response.json({
-      mensaje: "Hola desde un Worker creado con Terraform",
+      mensaje: "Hola desde un Worker desplegado con Terraform Cloud (push a GitHub)",
       metodo: request.method,
       ruta: url.pathname,
       fecha: new Date().toISOString(),
