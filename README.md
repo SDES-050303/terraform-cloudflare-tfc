@@ -1,4 +1,4 @@
-# Práctica 12 – Terraform Cloud + Cloudflare (módulos)
+# Tarea 8 – Terraform Cloud + Cloudflare (módulos)
 
 Práctica 11 refactorizada en un módulo reutilizable y desplegada desde **Terraform Cloud** (flujo VCS: cada push a `main` ejecuta plan + apply).
 
