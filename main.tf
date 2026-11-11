@@ -1,4 +1,4 @@
-# Practica 12 - Practica 11 refactorizada en modulos.
+# Tarea 8 - Practica 11 refactorizada en modulos.
 # La raiz solo configura el provider y llama al modulo, que contiene
 # la base D1, el Worker y su subdominio workers.dev.
 module "worker_d1" {
